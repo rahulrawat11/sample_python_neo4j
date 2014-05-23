@@ -10,7 +10,7 @@ class Neo():
         self.db.clear()
         self.eden = self.db.create(
             {"name": "Adam"},
-            {"name": "Steve"},
+            {"name": "Eva"},
             (0, "RIB", 1)
         )
 
